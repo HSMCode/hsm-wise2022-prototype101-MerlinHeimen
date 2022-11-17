@@ -67,7 +67,8 @@ public class Roboter : MonoBehaviour
             transform.Translate(0, -2, 0);
         }
 
-    
 
     }
+
+    
 }
